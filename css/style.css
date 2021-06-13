@@ -1,0 +1,148 @@
+body {
+	background-color: #E6E6E6;
+	margin:0;
+}
+
+
+
+
+.profile{
+	width: 100%;
+	min-height: 20px;
+	background-color: black;
+	border: 1px solid #BDBDBD;
+	height: 75px;
+	justify-content: space-between;
+	display: flex;
+	position: fixed;
+	margin: -22px;
+	margin-left: -5px
+
+
+}
+.profile a{
+	font-size: 45px;
+	text-decoration: none;
+	margin-left: 20px;
+	color: white;
+	
+}
+.profile i{
+	margin-top: 13px
+}
+
+.social-i {
+	margin-right: 30px;
+	margin-top: 13px
+	
+
+}
+
+.social-i a{
+	font-size: 30px
+}
+
+
+.log-out{
+	margin-left: 380px;
+
+}
+
+
+
+.log-out a:hover{
+	color: red;
+	}
+
+
+.about-profile{
+	margin-top: 20px
+}
+
+
+.link-{
+	
+	float: left;
+	width: 20%;
+	border: 1px solid black;
+	background-color: black;
+	height: 550px;
+	position: fixed;
+	margin-top: 70px
+
+
+
+
+}
+
+.link- a{
+
+	color: white;
+	margin-left: 15px;
+	text-decoration: none;
+	font-family: sans-serif;
+	font-size: 18px;
+
+
+
+
+}
+
+
+
+.link- h3 {
+	margin-top: 25px
+}
+
+.link- a:hover{
+	color: #FE642E;
+	text-decoration: underline;
+}
+
+
+ 
+.link2{
+	float: left;
+	width: 78%;
+	border: 1px solid black;
+	margin-left: 290px;
+	height: 700px;
+	background-color:  #E6E6E6;
+	margin-top: 70px;
+	border: none;
+
+}
+
+#m-head{
+	margin-top: 20px
+}
+
+.bay- a{
+
+font-size: 18px;
+text-decoration: none;
+color: black;
+font-family: sans-serif;
+
+}
+
+.bay- a:hover{
+	color: red;
+	text-decoration: underline;
+}
+
+.pic1{
+	float: right;
+	margin-top: 25px;
+	margin-right: 0px
+}
+.pic2{
+	float: left;
+	margin-top: 25px;
+	margin-left: 0px
+}
+}
+
+.pic1 a:hover{
+	color: red
+}
